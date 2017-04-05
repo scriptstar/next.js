@@ -823,6 +823,8 @@ Our Roadmap towards 2.0.0 [is public](https://github.com/zeit/next.js/wiki/Roadm
 
 Please see our [contributing.md](./contributing.md)
 
+contributors: Narendra Mandadapu
+
 ## Authors
 
 - Naoyuki Kanezawa ([@nkzawa](https://twitter.com/nkzawa)) – ▲ZEIT
