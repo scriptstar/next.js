@@ -823,7 +823,7 @@ Our Roadmap towards 2.0.0 [is public](https://github.com/zeit/next.js/wiki/Roadm
 
 Please see our [contributing.md](./contributing.md)
 
-contributors: Narendra Mandadapu
+contributors: Mandadapu
 
 ## Authors
 
